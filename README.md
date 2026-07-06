@@ -5,9 +5,11 @@
 正规小程序 都可以开发 覆盖范围广泛 你想得到的都可以开发
 开发期间测试期间疑难杂症不收费 完全按照你的思路来搞 
 
-客服 [@yun682](https://t.me/yun682)
-备用号 @ct6151
-第三客服号 @wrndgj
+能接受价格的联系客服飞机： https://t.me/yun682
+
+
+郑重声明：此源码为网友分享，使用用途仅限于测试、实验、研究为目的，禁止用于一切商业运营，以牟利为目的与本站无关，本站不承担使用者在使用过程中的任何违法行为负责！
+此类代码有兴趣就自己研究学习，搞价勿扰！
 <img width="630" height="1280" alt="image" src="https://github.com/user-attachments/assets/febdc599-6e7f-4aed-99b0-0a381b9bfa0a" />
 <img width="666" height="1280" alt="image" src="https://github.com/user-attachments/assets/a19435e4-39c3-47ca-b904-db7068359d55" />
 <img width="1263" height="933" alt="image" src="https://github.com/user-attachments/assets/e8282d9d-aee6-46f9-bda4-a20abfd83789" />
